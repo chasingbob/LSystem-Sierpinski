@@ -1,0 +1,6 @@
+C:\DEV\Demos\LSystem\LSystem\bin\Debug\LSystem.dll.config
+C:\DEV\Demos\LSystem\LSystem\bin\Debug\LSystem.dll
+C:\DEV\Demos\LSystem\LSystem\bin\Debug\LSystem.pdb
+C:\DEV\Demos\LSystem\LSystem\obj\Debug\LSystem.dll
+C:\DEV\Demos\LSystem\LSystem\obj\Debug\LSystem.pdb
+C:\DEV\Demos\LSystem\LSystem\obj\Debug\LSystem.csprojResolveAssemblyReference.cache

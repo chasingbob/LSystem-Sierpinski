@@ -1,0 +1,7 @@
+C:\DEV\Demos\LSystem\LSystemTesting\bin\Debug\LSystemTesting.dll
+C:\DEV\Demos\LSystem\LSystemTesting\bin\Debug\LSystemTesting.pdb
+C:\DEV\Demos\LSystem\LSystemTesting\bin\Debug\LSystem.dll
+C:\DEV\Demos\LSystem\LSystemTesting\bin\Debug\LSystem.pdb
+C:\DEV\Demos\LSystem\LSystemTesting\obj\Debug\LSystemTesting.csprojResolveAssemblyReference.cache
+C:\DEV\Demos\LSystem\LSystemTesting\obj\Debug\LSystemTesting.dll
+C:\DEV\Demos\LSystem\LSystemTesting\obj\Debug\LSystemTesting.pdb

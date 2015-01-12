@@ -1,0 +1,8 @@
+C:\DEV\Demos\LSystem\LSystemConsole\bin\Debug\LSystemConsole.exe.config
+C:\DEV\Demos\LSystem\LSystemConsole\bin\Debug\LSystemConsole.exe
+C:\DEV\Demos\LSystem\LSystemConsole\bin\Debug\LSystemConsole.pdb
+C:\DEV\Demos\LSystem\LSystemConsole\bin\Debug\LSystem.dll
+C:\DEV\Demos\LSystem\LSystemConsole\bin\Debug\LSystem.pdb
+C:\DEV\Demos\LSystem\LSystemConsole\obj\Debug\LSystemConsole.csprojResolveAssemblyReference.cache
+C:\DEV\Demos\LSystem\LSystemConsole\obj\Debug\LSystemConsole.exe
+C:\DEV\Demos\LSystem\LSystemConsole\obj\Debug\LSystemConsole.pdb

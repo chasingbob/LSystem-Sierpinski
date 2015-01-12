@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSystem", "LSystem\LSystem.csproj", "{99728FF8-6463-4D52-9D1F-64F49EA86CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSystemTesting", "LSystemTesting\LSystemTesting.csproj", "{08742FC1-E355-47AE-8173-6CB7A5DDB143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSystemConsole", "LSystemConsole\LSystemConsole.csproj", "{ABDC604A-89F5-415C-A655-F003117CBDB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99728FF8-6463-4D52-9D1F-64F49EA86CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99728FF8-6463-4D52-9D1F-64F49EA86CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99728FF8-6463-4D52-9D1F-64F49EA86CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99728FF8-6463-4D52-9D1F-64F49EA86CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08742FC1-E355-47AE-8173-6CB7A5DDB143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08742FC1-E355-47AE-8173-6CB7A5DDB143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08742FC1-E355-47AE-8173-6CB7A5DDB143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08742FC1-E355-47AE-8173-6CB7A5DDB143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDC604A-89F5-415C-A655-F003117CBDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDC604A-89F5-415C-A655-F003117CBDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDC604A-89F5-415C-A655-F003117CBDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDC604A-89F5-415C-A655-F003117CBDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
